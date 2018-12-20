@@ -40,11 +40,11 @@ definition(
 
     category: "My Apps",
 
-    iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
+    iconUrl: "https://cdn4.iconfinder.com/data/icons/SHINE7/general/400/bulb.png",
 
-    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png",
+    iconX2Url: "https://cdn4.iconfinder.com/data/icons/SHINE7/general/400/bulb.png",
 
-    iconX3Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png")
+    iconX3Url: "https://cdn4.iconfinder.com/data/icons/SHINE7/general/400/bulb.png")
 
 
 
