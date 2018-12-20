@@ -66,11 +66,19 @@ preferences {
 
             options: [ //add your camera urls here
 
-            ["rtsp://user:password@[ipaddress]/Streaming/Channels/1":"Name of Camera"], //hikvision
-
-            ["http://[ipaddress]:[port]/mjpeg.cgi?user=user&password=password&channel=1.mjpeg":"Name of Camera"], //dlink 932l
-
-            ["http://user:password@[ipaddress]/nphMotionJpeg?Resolution=640x480&Quality=Standard":"Name of Camera"] //panasonic bl-140c
+            ["rtsp://admin:S@ur0n@192.168.10.20:554/cam/realmonitor?channel=1&subtype=1":"Patio 1 Camera"], //lorex
+			
+            ["rtsp://admin:S@ur0n@192.168.10.20:554/cam/realmonitor?channel=2&subtype=1":"Driveway Camera"], //lorex
+            
+            ["rtsp://admin:S@ur0n@192.168.10.20:554/cam/realmonitor?channel=3&subtype=1":"Patio 2 Camera"], //lorex
+            
+            ["rtsp://admin:S@ur0n@192.168.10.20:554/cam/realmonitor?channel=4&subtype=1":"Living Room Camera"], //lorex
+            
+            ["rtsp://admin:S@ur0n@192.168.10.20:554/cam/realmonitor?channel=5&subtype=1":"Patio 3 Camera"], //lorex
+            
+            ["rtsp://admin:S@ur0n@192.168.10.20:554/cam/realmonitor?channel=6&subtype=1":"Family Room Camera"], //lorex
+            
+            
 
             ], displayDuringSetup: true)
 
